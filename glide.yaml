@@ -1,0 +1,6 @@
+package: github.com/samuelngs/lucene
+import:
+- package: github.com/gocql/gocql
+- package: golang.org/x/text
+  subpackages:
+  - encoding
